@@ -1,1 +1,2 @@
 # healthcare
+This project is an online health care system - a website which is been designed by using springboot as a backend tool and react js as a front-end tool. This project have two types of users, i.e., user(customer/patient) and the admin.
